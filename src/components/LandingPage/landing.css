@@ -1,0 +1,16 @@
+.container-landing{
+  background-image: url('https://www.politecnicojic.edu.co/images/fotos/2017/delimitacion-del-parqueadero-de-motos.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.cont-landing{
+  background-color: rgb(14, 15, 15);
+  padding: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 12px;
+}
